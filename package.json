@@ -1,0 +1,25 @@
+{
+  "name": "cli-tool-in-nodejs",
+  "version": "1.0.0",
+  "description": "a CLI tool build using node.js which show crypto Currency prices.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safojan/cli-tool-in-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safojan/cli-tool-in-nodejs/issues"
+  },
+  "homepage": "https://github.com/safojan/cli-tool-in-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
