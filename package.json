@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "a CLI tool build using node.js which show crypto Currency prices.",
   "main": "server.js",
-  "type": "module",
+  "bin": "./bin/coinpriz.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": ""
   },
   "repository": {
     "type": "git",
